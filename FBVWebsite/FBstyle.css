@@ -1,0 +1,134 @@
+.TextWhite {
+	font-weight: bolder; FONT-SIZE: 10pt; COLOR: #275198; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+.TextWhiteGV {
+	font-weight: bolder; FONT-SIZE: 11pt; COLOR: #ffffff; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+.MainText {
+	font-weight: bolder; FONT-SIZE: 10pt; COLOR: #374f5d; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+.TextBlack {
+	font-weight: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+.Textromadi {
+	font-weight: bold; FONT-SIZE: 10pt; COLOR: #3b3b3b; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+.Textblue {
+	font-weight: bold; FONT-SIZE: 10pt; COLOR: #005ebf; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+.TextYellow {
+	font-weight: bold; FONT-SIZE: 10pt; COLOR: #ffcc66; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+.RedError {
+	FONT-SIZE: 14pt; COLOR: #FF0000; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+.RedDone {
+	FONT-SIZE: 11pt; COLOR: #FF0000; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+.PageHeader {
+	font-weight: bold;FONT-SIZE: 18pt; COLOR: #009900; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+body  {
+	FONT-SIZE: 11px;
+	COLOR: #009900;
+	FONT-FAMILY: 'Simplified Arabic';
+}
+
+input  {
+	FONT-SIZE: 12px;
+	COLOR: #009900;
+	height: 14px;
+	FONT-FAMILY: 'Simplified Arabic';
+	direction:rtl;
+	background-color: #f5f5f5 
+}
+
+.Checkbox1  {
+	FONT-SIZE: 13px;
+	COLOR: #009900;
+	width: 30px;
+	height: 20px;
+	FONT-FAMILY: 'Simplified Arabic';
+	direction:rtl
+}
+textarea  
+{
+	FONT-SIZE: 12px;
+	COLOR: #009900;
+	border-left: 1px inset #C0C0C0; 
+	border-right: 1px inset #808080; 
+    border-top: 1px inset #808080; 
+    border-bottom: 1px inset #808080; 
+	direction:rtl;
+	width: 220px;
+	height: 40px; 
+	background-color: #f5f5f5 
+}
+A {
+	font-weight: bold; FONT-SIZE: 10pt; COLOR: dimgray; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+A.menu2 {
+	font-weight: bold; FONT-SIZE: 10pt; COLOR: maroon; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+A.menu {
+	font-weight: bold; FONT-SIZE: 10pt; COLOR: white; FONT-FAMILY: 'Simplified Arabic', Tahoma; TEXT-DECORATION: none
+}
+A:hover {
+	font-weight: bold; FONT-SIZE: 10pt; COLOR: brown;TEXT-DECORATION: underline; FONT-FAMILY: 'Simplified Arabic', Tahoma
+}
+A.Forums {
+	FONT-SIZE: 10pt; COLOR: blue; TEXT-DECORATION: none
+}
+A.Forums:hover {
+	FONT-SIZE: 10pt; COLOR: blue; TEXT-DECORATION: underline
+}
+A.ActivePage {
+	FONT-SIZE: 10pt; COLOR: blue; FONT-FAMILY: 'Simplified Arabic'; TEXT-DECORATION: none
+}
+.Button
+{
+	font-weight: bold;
+	FONT-SIZE: 14px;
+	COLOR: #009900;
+	border-left: 1px solid #009900; 
+	border-right: 1px solid #009900; 
+    border-top: 1px solid #009900; 
+    border-bottom: 1px solid #009900; 
+	direction:rtl;
+	width: 60px;
+	height: 25px; 
+	background-color: #f5f5f5 
+}
+.DGHeader
+{
+	font-weight: bold;
+	FONT-SIZE: 14px;
+	COLOR: #ffffff;
+	background-color: #009900 
+}
+.DGBody
+{
+	FONT-SIZE: 12px;
+	COLOR: #009900
+}
+.PageTitle
+{
+    FONT-SIZE: 16px;
+    color :Red;
+ }
+
+/*Modal Popup*/
+.modalBackground {
+	background-color:black;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+	}
+.chkbox INPUT
+{
+ COLOR: black;
+ border-style: none;
+ font-family: Tahoma;
+ font-size: 110px;
+ margin-right: 5px;
+
+}
